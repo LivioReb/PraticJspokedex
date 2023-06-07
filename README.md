@@ -1,0 +1,2 @@
+# PraticJspokedex
+Praticando js 
